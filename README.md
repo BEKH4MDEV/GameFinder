@@ -2,8 +2,10 @@
 
 A modern Android application for discovering and exploring games, built with the latest Android development technologies.
 
-![Home Screen](screenshots/home.jpeg)
-![Detail Screen](screenshots/detail.jpeg)
+<div style="display: flex; gap: 10px;">
+    <img src="screenshots/home.jpeg" width="400" alt="Home Screen">
+    <img src="screenshots/detail.jpeg" width="400" alt="Detail Screen">
+</div>
 
 ## 🚀 Features
 
