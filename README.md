@@ -39,7 +39,7 @@ A modern Android application for discovering and exploring games, built with the
 
 1. Clone repository
 ```bash
-git clone https://github.com/[your-username]/game-finder.git
+git clone https://github.com/BEKH4MDEV/GameFinder.git
 ```
 
 2. Open project in Android Studio
